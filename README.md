@@ -9,7 +9,7 @@ JIRA Card - HAC-37.  Trying to get this into my commit so that I can check the J
 
 6/3/2016 To-Do:
 
-- [ ] Setup working PoshHubot
+- [x] Setup working PoshHubot
 - [x] Setup Auth for commands
 - [x] Start writing powershell scripts to do cool things
 - [x] Get AWS Bot to run scripts.
