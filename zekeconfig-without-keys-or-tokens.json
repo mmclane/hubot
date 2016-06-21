@@ -1,0 +1,22 @@
+{
+    "Path":  "C:\\Hubot\\zekeconfig.json",
+    "BotAdapter":  "slack",
+    "BotDebugLog":  {
+                        "IsPresent":  true
+                    },
+    "BotDescription":  "Your friendly AWS helper bot",
+    "BotPath":  "C:\\hubot\\zeke",
+    "BotOwner":  "Matt McLane \u003cmatt.mclane@hooklogic.com\u003e",
+    "LogPath":  "C:\\Hubot\\Logs",
+    "BotName":  "zeke",
+    "ArgumentList":  "--adapter slack",
+    "BotExternalScriptsPath":  "C:\\hubot\\zeke\\external-scripts.json",
+    "PidPath":  "C:\\hubot\\zeke\\zeke.pid",
+    "EnvironmentVariables":  {
+                                 "HUBOT_ADAPTER":  "slack",
+                                 "HUBOT_LOG_LEVEL":  "debug",
+                                 "HUBOT_AUTH_ADMIN": "#########",
+                                 "HUBOT_SLACK_TOKEN": "###############################",
+                                 "FILE_BRAIN_PATH": "C:\\Hubot\\zeke\\"
+                             }
+}
