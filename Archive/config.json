@@ -1,0 +1,26 @@
+{
+    "Path":  "C:\\Hubot\\config.json",
+    "BotAdapter":  "slack",
+    "BotDebugLog":  {
+                        "IsPresent":  true
+                    },
+    "BotDescription":  "Awesome POSHHUBOT",
+    "BotPath":  "C:\\hubot\\marvin",
+    "BotOwner":  "Matt McLAne \u003cmmclane@onlinetech.com\u003e",
+    "LogPath":  "C:\\Hubot\\Logs",
+    "BotName":  "marvin",
+    "ArgumentList":  "--adapter slack",
+    "BotExternalScriptsPath":  "C:\\hubot\\marvin\\external-scripts.json",
+    "PidPath":  "C:\\hubot\\marvin\\marvin.pid",
+    "EnvironmentVariables":  {
+                                 "HUBOT_ADAPTER":  "slack",
+                                 "HUBOT_AUTH_ADMIN": "U0EKP6B3L",
+                                 "HUBOT_FORECAST_API_KEY": "4a3644b437d6aafaf8a7bcf73d0c9667",
+                                 "HUBOT_LOG_LEVEL":  "debug",
+                                 "HUBOT_SLACK_TOKEN": "xoxb-28270986418-lS5b4rAQTIfofTub9rc7OBIk",
+                                 "FILE_BRAIN_PATH": "C:\\Hubot\\",
+                                 "HUBOT_JIRA_URL": "https://onlinetech.atlassian.net",
+                                 "HUBOT_JIRA_USERNAME": "mmclane",
+                                 "HUBOT_JIRA_PASSWORD": "I@mgr00t!"
+                             }
+}
