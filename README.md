@@ -30,7 +30,7 @@ JIRA Card - HAC-37.  Trying to get this into my commit so that I can check the J
 Once its at least somewhat working, I need to swtich from PartyRockers Slack to Hooklogic Slack.
 
 Setup Steps to Move to Hooklogic Slack
-   - [ ] Need to Rename Folder and such in Repo from AWS to Zeke
+   - [x] Need to Rename Folder and such in Repo from AWS to Zeke
    - [ ] Get  HUBOT_SLACK_TOKEN and set in awsconfig.json
    - [ ] restart hubot
    - [ ] Temporarily change showusers.coffee to remove restricts for admin group to run command
