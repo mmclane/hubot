@@ -1,0 +1,22 @@
+{
+    "Path":  "C:\\Hubot\\o365config.json",
+    "BotAdapter":  "slack",
+    "BotDebugLog":  {
+                        "IsPresent":  true
+                    },
+    "BotDescription":  "Bot to connect Slack with o365",
+    "BotPath":  "C:\\hubot\\o365",
+    "BotOwner":  "Matt McLAne \u003cmmclane@onlinetech.com\u003e",
+    "LogPath":  "C:\\Hubot\\Logs",
+    "BotName":  "o365",
+    "ArgumentList":  "--adapter slack",
+    "BotExternalScriptsPath":  "C:\\hubot\\o365\\external-scripts.json",
+    "PidPath":  "C:\\hubot\\o365\\o365.pid",
+    "EnvironmentVariables":  {
+                                 "HUBOT_ADAPTER":  "slack",
+                                 "HUBOT_LOG_LEVEL":  "debug",
+                                 "HUBOT_AUTH_ADMIN": "U0EKP6B3L",
+                                 "HUBOT_SLACK_TOKEN": "xoxb-31230698291-HOhQlEeeJsIOFe5CkpQCZChj",
+                                 "FILE_BRAIN_PATH": "C:\\Hubot\\o365\\"
+                             }
+}
